@@ -1,0 +1,11 @@
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/bin/Debug/netcoreapp2.0/ConcurrencySamples.deps.json
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/bin/Debug/netcoreapp2.0/ConcurrencySamples.runtimeconfig.json
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/bin/Debug/netcoreapp2.0/ConcurrencySamples.runtimeconfig.dev.json
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/bin/Debug/netcoreapp2.0/ConcurrencySamples.dll
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/bin/Debug/netcoreapp2.0/ConcurrencySamples.pdb
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/obj/Debug/netcoreapp2.0/ConcurrencySamples.csprojResolveAssemblyReference.cache
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/obj/Debug/netcoreapp2.0/ConcurrencySamples.csproj.CoreCompileInputs.cache
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/obj/Debug/netcoreapp2.0/ConcurrencySamples.AssemblyInfoInputs.cache
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/obj/Debug/netcoreapp2.0/ConcurrencySamples.AssemblyInfo.cs
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/obj/Debug/netcoreapp2.0/ConcurrencySamples.dll
+/Users/kevinbyrom/Projects/ConcurrencySamples/ConcurrencySamples/obj/Debug/netcoreapp2.0/ConcurrencySamples.pdb
